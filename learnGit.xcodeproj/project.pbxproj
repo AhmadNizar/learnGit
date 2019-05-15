@@ -16,6 +16,7 @@
 		12C8A287228BA899005B796A /* LearnerModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C8A286228BA899005B796A /* LearnerModel.swift */; };
 		12C8A289228BB59C005B796A /* CarModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C8A288228BB59C005B796A /* CarModel.swift */; };
 		12C8A28B228BC5DB005B796A /* FacilitatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C8A28A228BC5DB005B796A /* FacilitatorModel.swift */; };
+		12C8A28D228BC97E005B796A /* MenteeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C8A28C228BC97E005B796A /* MenteeModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		12C8A286228BA899005B796A /* LearnerModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnerModel.swift; sourceTree = "<group>"; };
 		12C8A288228BB59C005B796A /* CarModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarModel.swift; sourceTree = "<group>"; };
 		12C8A28A228BC5DB005B796A /* FacilitatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacilitatorModel.swift; sourceTree = "<group>"; };
+		12C8A28C228BC97E005B796A /* MenteeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenteeModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 			children = (
 				12C8A253228B9CC3005B796A /* AppDelegate.swift */,
 				12C8A255228B9CC3005B796A /* ViewController.swift */,
+				12C8A28C228BC97E005B796A /* MenteeModel.swift */,
 				12C8A286228BA899005B796A /* LearnerModel.swift */,
 				12C8A257228B9CC3005B796A /* Main.storyboard */,
 				12C8A288228BB59C005B796A /* CarModel.swift */,
@@ -152,6 +155,7 @@
 				12C8A289228BB59C005B796A /* CarModel.swift in Sources */,
 				12C8A254228B9CC3005B796A /* AppDelegate.swift in Sources */,
 				12C8A25C228B9CC3005B796A /* learnGit.xcdatamodeld in Sources */,
+				12C8A28D228BC97E005B796A /* MenteeModel.swift in Sources */,
 				12C8A287228BA899005B796A /* LearnerModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
